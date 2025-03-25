@@ -2,7 +2,7 @@
 
 ## To run
 
-Add connection information to config.js
+Add MongoDB connection information to config.js
 
     node ./user-api/src/app.js
 
